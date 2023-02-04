@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Yet Another Blog'
+theme = 'ananke'
+
+[deployment]
+
+[[deployment.targets]]
+name = "aws"
+URL = "s3://yet-another-blog?region=eu-west-1"
+cloudFrontDistributionID = "E3UZMS18CZZCMV"
