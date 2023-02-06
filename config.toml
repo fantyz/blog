@@ -1,4 +1,4 @@
-baseURL = 'http://yab.fantyz.net/'
+baseURL = 'https://yab.fantyz.net/'
 languageCode = 'en-us'
 title = 'Yet Another Blog'
 theme = 'ananke'
